@@ -1,0 +1,29 @@
+Bug2:
+
+Project Type: my.bonify.de
+
+Issue Type: Bug
+
+Summary: Going back to the Login page from "Register Page" and "Forgot Password" page requires three clicks.
+
+Priority: Minor
+
+Components: Navigation 
+
+Affected Version: Version Number
+
+Environment: Browser: Google Chrome, 
+             Network: Wifi
+
+Description:  Steps to follow:
+
+1) Go to my.bonify.de.
+2) Click on Register button/Forgot Password option.
+3) Click on the Back button to go back to the Login page.
+4) Observe
+
+Actual Result: User needs to click the Back button thrice to go back to the Login page.
+
+Expected Result: User should be taken back to the Login page on clicking the back button once.
+
+Reproducibility Rate: 5/5 times
