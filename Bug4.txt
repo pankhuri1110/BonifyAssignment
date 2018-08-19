@@ -1,0 +1,28 @@
+Bug4:
+
+Project Type: www.bonify.de
+
+Issue Type: Bug
+
+Summary: Login page is not getting opened in another tab on clicking on the Login option from www.bonify.de.
+
+Priority: Minor
+
+Components: Navigation 
+
+Affected Version: Version Number
+
+Environment: Browser: Google Chrome, 
+             Network: Wifi
+
+Description:  Steps to follow:
+
+1) Go to www.bonify.de.
+2) Click on Login option displayed at the top right corner of the homepage.
+3) Observe
+
+Actual Result: Login page is not getting opened in another tab.
+
+Expected Result: Login page should open in another tab just like Registeration option.
+
+Reproducibility Rate: 5/5 times
