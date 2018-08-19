@@ -1,0 +1,31 @@
+Bug3:
+
+Project Type: my.bonify.de
+
+Issue Type: Bug
+
+Summary: Wrong error message is displayed on entering invalid username and paswword while logging in.
+
+Priority: Minor
+
+Components: Login
+
+Affected Version: Version Number
+
+Environment: Browser: Google Chrome, 
+             Network: Wifi
+
+Description:  Steps to follow:
+
+1) Go to my.bonify.de.
+2) Enter invalid username and password.
+3) Click on the Login button.
+4) Observe.
+
+Actual Result: "Unfortunately, username and password doe not match" error message is displayed.
+
+Expected Result: "Incorrect username or password entered" message should be displayed
+
+Reproducibility Rate: 5/5 times
+
+Screenshot: Attached.
