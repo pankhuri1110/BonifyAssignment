@@ -17,7 +17,7 @@ Environment: Browser: Google Chrome,
 
 Description:  Steps to follow:
 
-1) Scan the Website online on "brokenlinkcheck.com" to check for broken links.
+1) Scan the Website to check for broken links.
 2) Observe
 
 Actual Result: Error "400-Bad Request" is found on "https://www.bonify.de/datenschutzerklaerung". 
@@ -28,4 +28,4 @@ Reproducibility Rate: 5/5 times
 
 Logs: Displayed below.
 
-<p><span style="font-weight: 400;">Der Schutz Ihrer Privatsph‰re auf unserer Webseite </span><a href="https://www.bonify.de/"><span style="font-weight: 400;">https://www.bonify.de/</span></a><span style="font-weight: 400;">, </span><a href="https://www.bonify.de/"><span style="font-weight: 400;">https://</span></a><a href="http://www.my.bonify.de"><span style="font-weight: 400;">my.bonify.de</span></a><span style="font-weight: 400;"> und in unserer App &#8220;bonify&#8221; ist uns sehr wichtig. Die Verarbeitung Ihrer personenbezogenen Daten geschieht unter Beachtung der geltenden datenschutzrechtlichen Vorschriften, insbesondere der europ‰ischen Datenschutzgrundverordnung (DSGVO) und des Bundesdatenschutzgesetzes (BDSG). Wir bitten Sie, diese Datenschutzhinweise aufmerksam zu lesen.</span></p>
+<p><span style="font-weight: 400;">Der Schutz Ihrer Privatsph√§re auf unserer Webseite </span><a href="https://www.bonify.de/"><span style="font-weight: 400;">https://www.bonify.de/</span></a><span style="font-weight: 400;">, </span><a href="https://www.bonify.de/"><span style="font-weight: 400;">https://</span></a><a href="http://www.my.bonify.de"><span style="font-weight: 400;">my.bonify.de</span></a><span style="font-weight: 400;"> und in unserer App &#8220;bonify&#8221; ist uns sehr wichtig. Die Verarbeitung Ihrer personenbezogenen Daten geschieht unter Beachtung der geltenden datenschutzrechtlichen Vorschriften, insbesondere der europ√§ischen Datenschutzgrundverordnung (DSGVO) und des Bundesdatenschutzgesetzes (BDSG). Wir bitten Sie, diese Datenschutzhinweise aufmerksam zu lesen.</span></p>
