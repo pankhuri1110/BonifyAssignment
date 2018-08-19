@@ -1,0 +1,27 @@
+Bug1:
+
+Project Type: my.bonify.de
+
+Issue Type: Bug
+
+Summary: Closing bracket of "username" text is misisng on the homepage.
+
+Priority: Trivial
+
+Components: UI
+
+Affected Version: Version Number
+
+Environment: Browser: Google Chrome, 
+             Network: Wifi
+
+Description:  Steps to follow:
+
+1) Go to my.bonify.de
+2) Observe
+
+Actual Result: Closing bracket of username text is misisng on the homepage.
+
+Expected Result: Bracket should be enclosed properly for "username" text.
+
+Screenshot: Attached.
