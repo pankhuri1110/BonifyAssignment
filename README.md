@@ -1,3 +1,5 @@
+#Bonify Assignment
+
 This is the solution for Task: Task 2(Level 2) (1.5 hours)
 Write an automated test script for our login page my.bonify.de that tests all functions and
 features on this one page and performs login.
@@ -12,7 +14,7 @@ Pre-requisite to run the tests :
 
 Steps to run :
 
-1. Clone the project using command : git clone https://github.com/hbanafal/frontiercargroup-qa.git
-2. Change the directory to project's dir : cd frontiercargroup-qa
+1. Clone the project using command : git clone https://github.com/pankhuri1110/BonifyAssignment.git
+2. Change the directory to project's dir : cd BonifyAssignment
 3. Run tests using command : mvn clean test
-4. Open test reports in the folder : frontiercargroup-qa/test-output/emailable-report.html
+4. Open test reports in the folder : BonifyAssignment/test-output/emailable-report.html
